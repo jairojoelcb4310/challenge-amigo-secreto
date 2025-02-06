@@ -1,40 +1,36 @@
-# challenge-amigo-secreto
+# Proyecto Amigo Secreto
+
 Esta aplicación web te permite registrar una lista de amigos, y luego seleccionar aleatoriamente a uno de ellos como el "amigo secreto". Ideal para juegos, sorteos o simplemente para divertirte.
 
-## Característicasprincipales
+## Características Principales
 
-* Agregar nombres de amigos a una lista.
+- **Agregar Nombres**: Permite agregar nombres de amigos a una lista.
+- **Mostrar Lista**: Muestra la lista de amigos ingresados.
+- **Seleccionar Aleatoriamente**: Selecciona aleatoriamente un amigo de la lista.
+- **Mostrar Resultado**: Muestra el nombre del amigo sorteado en lugar de la lista.
 
-* Mostrar la lista de amigos ingresados.
+## Tecnologías Utilizadas
 
-* Seleccionar aleatoriamente un amigo de la lista.
-
-* Mostrar el nombre del amigo sorteado en lugar de la lista.
-
-## Tecnologías utilizadas
-
-* HTML5: Estructura de la aplicación.
-
-* CSS3: Estilizado de la interfaz.
-
-* JavaScript: Lógica y funcionalidad interactiva.
+- **HTML5**: Estructura de la aplicación.
+- **CSS3**: Estilizado de la interfaz.
+- **JavaScript**: Lógica y funcionalidad interactiva.
 
 ## Uso
 
-1. Escribe el nombre de un amigo en el campo de texto.
-
-2. Haz clic en "Añadir" para agregarlo a la lista.
-
-3. Cuando tengas todos los nombres ingresados, haz clic en el botón "Sortear amigo".
-
-4. El nombre del amigo sorteado se mostrará en la pantalla, reemplazando la lista.
+1. **Escribir Nombre**: Escribe el nombre de un amigo en el campo de texto.
+2. **Añadir**: Haz clic en "Añadir" para agregarlo a la lista.
+3. **Sortear Amigo**: Cuando tengas todos los nombres ingresados, haz clic en el botón "Sortear amigo".
+4. **Ver Resultado**: El nombre del amigo sorteado se mostrará en la pantalla, reemplazando la lista.
 
 ## Captura de Pantalla
 ![image](https://github.com/user-attachments/assets/5ddb27fe-a37a-447d-9134-17edf69f690d)
 
-## Mejoras futuras
+## Mejoras Futuras
 
-* Persistencia de la lista utilizando almacenamiento local.
+- **Persistencia de la Lista**: Implementar almacenamiento local para guardar la lista de amigos.
+- **Mejoras en el Diseño**: Mejoras en la estética y el diseño de la interfaz.
 
-* Mejoras en el diseño y estética.
+
+
+
 
